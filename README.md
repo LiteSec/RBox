@@ -35,6 +35,6 @@ JP's Terminal Emulator has a neat feature, which allows you to specify the defau
 
 2. Scroll down and under the ```Shell``` tab, select ```Command line
 
-3. Replace the default command line with the location of rbox_shell. If you followed our guide, the path should be ```/data/data/jackpal.androidterm/kbox/bin/kbox_shell```
+3. Replace the default command line with the location of rbox_shell. If you followed our guide, the path should be ```/data/data/jackpal.androidterm/rbox/bin/rbox_shell```
 
 4. Relaunch the Terminal Emulator to apply the settings.
